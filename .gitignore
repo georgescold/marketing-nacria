@@ -1,2 +1,19 @@
 __pycache__/
 *.pyc
+
+# Heavy media and working files: kept locally only (the final videos live in the Dépôt contenu app)
+*.mp4
+*.wav
+*.mp3
+**/scenes/
+**/voix/
+**/_v[0-9]*/
+**/_tests*/
+**/*_archives/
+**/heros/
+**/tests anim/
+**/tests voix/
+**/covers_v1/
+**/scenes_test/
+**/_sources/
+**/_clips_trop_courts/
